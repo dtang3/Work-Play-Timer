@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
         w10.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 // Perform action on click
-                work.setText("1");
+                work.setText("10");
 
             }
         });
